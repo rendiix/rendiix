@@ -2,7 +2,7 @@
 
 📫  My contact
 
-![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=vanzdobz@gmail.com&color=5b5b5b&labelColor=5b5b5b)
+[![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=vanzdobz@gmail.com&color=5b5b5b&labelColor=5b5b5b)](vanzdobz@gmail.com)
 [![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@rendiix&color=5b5b5b&labelColor=5b5b5b)](https://www.twitter.com/rendiix)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@rendiix&color=5b5b5b&labelColor=5b5b5b)](https://github.com/rendiix)
 
