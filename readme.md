@@ -6,14 +6,10 @@
 [![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@rendiix&color=5b5b5b&labelColor=5b5b5b)](https://www.twitter.com/rendiix)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@rendiix&color=5b5b5b&labelColor=5b5b5b)](https://github.com/rendiix)
 
-<details>
-<summary>⚡️ My stat</summary>
-<br />
+⚡️ My stat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendiix&layout=compact&hide=css,html)
 
 ![Rendiix's github stats](https://github-readme-stats.vercel.app/api?username=rendiix&count_private=true&show_icons=true&theme=onedark)
-
-</details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rendiix.rendiix)
