@@ -13,3 +13,6 @@
 ![Rendiix's github stats](https://github-readme-stats.vercel.app/api?username=rendiix&count_private=true&show_icons=true&theme=onedark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rendiix.rendiix)
+
+#### Suport me
+https://www.paypal.com/paypalme/rendix
